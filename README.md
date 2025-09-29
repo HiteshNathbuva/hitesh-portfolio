@@ -20,7 +20,8 @@ This project showcases my web development skills, projects, and background in a 
 
 - **HTML5** – structure & layout  
 - **CSS3** – styling and responsiveness  
-- **JavaScript** – interactivity and dynamic features  
+- **JavaScript** – interactivity and dynamic features
+- 
 
 ---
 
